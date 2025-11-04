@@ -25,6 +25,11 @@
 스터디 모집 및 관리 웹사이트
 
 ---
+## 📘 CS 스터디
+**[운영체제 스터디](https://github.com/orgs/CS-study-discussion/discussions)**  
+운영체제 이론 정리 및 토론 스터디  
+
+---
 ### 📈 알고리즘 풀이 (solved.ac)
 <p>
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mikm7243" alt="Solved.ac Profile" />
