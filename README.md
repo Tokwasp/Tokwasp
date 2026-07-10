@@ -1,11 +1,9 @@
-## 👋 **백엔드 개발자 조희제**  
-
-사용자 경험을 최우선으로 생각하며 읽기 좋은 코드를 작성하기 위해 노력합니다.  
+## 👋 **백엔드 개발자 조희제**
+사용자 경험을 최우선으로 생각하며 읽기 좋은 코드를 작성하기 위해 노력합니다.
 
 ---
 
 ### 🛠 기술 스택
-
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -14,22 +12,42 @@
 </p>
 
 ---
+
 ## 📂 Projects
 
-### 👥 개인 프로젝트
-**[LEMS - Learning Event Management System](https://github.com/Tokwasp/LEMS-Project)**  
+### 👤 개인 프로젝트
+**[LEMS - Learning Event Management System](https://github.com/Tokwasp/LEMS-Project)**
 모임관리 애플리케이션
 
 ### 👥 팀 프로젝트
-**[NeogulCoder - 스터디 관리 플랫폼](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE)**  
+**[Food-Share - AI 소비기한 인식 음식 나눔 서비스](https://github.com/Tokwasp/foodshare)**
+소비기한 사진을 AI가 인식해 안전하게 나눔하는 음식 나눔 서비스
+
+**[NeogulCoder - 스터디 관리 플랫폼](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE)**
 스터디 모집 및 관리 웹사이트
 
 ---
-## 📘 CS 스터디
-**[운영체제 스터디](https://github.com/orgs/CS-study-discussion/discussions)**  
-운영체제 이론 정리 및 토론 스터디  
+
+## 📘 스터디
+**[운영체제 스터디](https://github.com/orgs/CS-study-discussion/discussions)**
+운영체제 이론 정리 및 토론 스터디
+
+**[인프런 워밍업 클럽 4기 - 백엔드 클린 코드, 테스트 코드](https://www.inflearn.com/course/offline/warmup-club-4-be)**
+Java, Spring Boot 기반 클린 코드 및 테스트 코드 스터디
 
 ---
+
+## 📜 자격증
+
+| 자격증 | 발급기관 |
+| --- | --- |
+| 정보처리산업기사 | 한국산업인력공단 |
+| 컴퓨터활용능력 1급 | 대한상공회의소 |
+| 삼성 SW역량테스트 B형 | 삼성전자 |
+| AWS Certified AI Practitioner | Amazon Web Services |
+
+---
+
 ### 📈 알고리즘 풀이 (solved.ac)
 <p>
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mikm7243" alt="Solved.ac Profile" />
