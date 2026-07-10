@@ -1,5 +1,12 @@
 ## 👋 **백엔드 개발자 조희제**
-사용자 경험을 최우선으로 생각하며 읽기 좋은 코드를 작성하기 위해 노력합니다.
+
+**① 새로운 기술을 탐구하고 도전하는 것을 좋아합니다.**
+
+어렵고 낯선 기술이라도 직접 부딪히며 제 것으로 만드는 과정에서 큰 성취감을 느낍니다. 메모리와 수행 시간 최적화 역량을 기르고자 삼성 SW 역량테스트 B형에 도전하여 취득했고, 최근에는 백엔드와 시너지를 낼 수 있는 AI와 인프라 분야를 깊이 학습하여 AWS Certified AI Practitioner 자격까지 취득했습니다.
+
+**② 반복되는 작업을 모두 자동화합니다.**
+
+GitHub Actions 기반 AI PR 1차 리뷰로 평균 5건의 버그·보안 위험을 merge 전 차단했고, 웹훅과 Claude 루틴으로 작업 현황 파악·요약까지 자동화해 반복 작업을 최소화한 경험이 있습니다.
 
 ---
 
@@ -9,6 +16,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
 ---
