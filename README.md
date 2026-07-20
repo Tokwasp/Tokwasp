@@ -53,7 +53,7 @@ Java, Spring Boot 기반 클린 코드 및 테스트 코드 스터디
 | 컴퓨터활용능력 1급 | 대한상공회의소 |
 | 삼성 SW역량테스트 B형 | 삼성전자 |
 | AWS Certified AI Practitioner | Amazon Web Services |
-
+| AWS Certified Solutions Architect – Associate | Amazon Web Services |
 ---
 
 ### 📈 알고리즘 풀이 (solved.ac)
