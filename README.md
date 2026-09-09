@@ -29,6 +29,9 @@
 모임관리 애플리케이션
 
 ### 👥 팀 프로젝트
+**[Projectree - 화상회의 기반 노드 시각화 서비스](https://github.com/Tokwasp/Projectree)**
+화상 회의 결과를 노드로 시각화하여 프로젝트 관리하는 서비스
+
 **[Food-Share - AI 소비기한 인식 음식 나눔 서비스](https://github.com/Tokwasp/foodshare)**
 소비기한 사진을 AI가 인식해 안전하게 나눔하는 음식 나눔 서비스
 
@@ -55,6 +58,7 @@ Java, Spring Boot 기반 클린 코드 및 테스트 코드 스터디
 | 삼성 SW역량테스트 B형 | 삼성전자 |
 | AWS Certified AI Practitioner | Amazon Web Services |
 | AWS Certified Solutions Architect – Associate | Amazon Web Services |
+| SQL Developer | 한국데이터산업진흥원 |
 ---
 
 ### 📈 알고리즘 풀이 (solved.ac)
