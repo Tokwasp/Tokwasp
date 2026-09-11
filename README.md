@@ -48,6 +48,9 @@
 **[인프런 워밍업 클럽 4기 - 백엔드 클린 코드, 테스트 코드](https://www.inflearn.com/course/offline/warmup-club-4-be)**
 Java, Spring Boot 기반 클린 코드 및 테스트 코드 스터디
 
+**[알고리즘 스터디](https://app.notion.com/p/Problem-Solving-56b73b7eb30146f3a159b103f2b5723c)**
+알고리즘 풀이 및 설명 
+
 ---
 
 ## 📜 자격증
