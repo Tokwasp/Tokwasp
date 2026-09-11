@@ -45,7 +45,7 @@
 **[운영체제 스터디](https://github.com/orgs/CS-study-discussion/discussions)**
 운영체제 이론 정리 및 토론 스터디
 
-**[인프런 워밍업 클럽 4기 - 백엔드 클린 코드, 테스트 코드](https://www.inflearn.com/course/offline/warmup-club-4-be)**
+**[인프런 워밍업 클럽 4기 - 백엔드 클린 코드, 테스트 코드](https://www.inflearn.com/blogs?s=%EC%A1%B0%ED%9D%AC%EC%A0%9C)**
 Java, Spring Boot 기반 클린 코드 및 테스트 코드 스터디
 
 **[알고리즘 스터디](https://app.notion.com/p/Problem-Solving-56b73b7eb30146f3a159b103f2b5723c)**
