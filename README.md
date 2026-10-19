@@ -51,6 +51,7 @@ Java, Spring Boot 기반 클린 코드 및 테스트 코드 스터디
 | 삼성 SW역량테스트 B형 | 삼성전자 |
 | AWS Certified AI Practitioner | Amazon Web Services |
 | AWS Certified Solutions Architect – Associate | Amazon Web Services |
+| AWS Certified Developer – Associate | Amazon Web Services |
 | SQL Developer | 한국데이터산업진흥원 |
 ---
 
