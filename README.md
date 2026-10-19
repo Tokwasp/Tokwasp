@@ -47,12 +47,12 @@ Java, Spring Boot 기반 클린 코드 및 테스트 코드 스터디
 | 자격증 | 발급기관 |
 | --- | --- |
 | 정보처리기사 | 한국산업인력공단 |
-| 컴퓨터활용능력 1급 | 대한상공회의소 |
+| SQL Developer | 한국데이터산업진흥원 |
 | 삼성 SW역량테스트 B형 | 삼성전자 |
-| AWS Certified AI Practitioner | Amazon Web Services |
 | AWS Certified Solutions Architect – Associate | Amazon Web Services |
 | AWS Certified Developer – Associate | Amazon Web Services |
-| SQL Developer | 한국데이터산업진흥원 |
+| AWS Certified AI Practitioner | Amazon Web Services |
+| 컴퓨터활용능력 1급 | 대한상공회의소 |
 ---
 
 ### 📈 알고리즘 풀이 (solved.ac)
