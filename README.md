@@ -16,6 +16,9 @@
 모임관리 애플리케이션
 
 ### 👥 팀 프로젝트
+**[CheckMate - AI 여행 짐 싸기 도우미](https://github.com/Tokwasp/checkmate)**
+"뭐 빠뜨렸지?", "이거 가져가도 되나?" — 여행 짐 싸기의 두 가지 고민을 AI로 해결하는 모바일 앱
+
 **[Projectree - 화상회의 기반 노드 시각화 서비스](https://github.com/Tokwasp/Projectree)**
 화상 회의 결과를 노드로 시각화하여 프로젝트 관리하는 서비스
 
